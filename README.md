@@ -12,7 +12,7 @@ Live project link: <https://thenomadicenby.github.io/product-landing-page-freeco
 
 ## Screenshot
 
-![markdown-screenshot]()
+![markdown-screenshot](./assets/Screenshot%201.png)
 
 ## Objective
 
