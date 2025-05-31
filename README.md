@@ -2,7 +2,7 @@
 
 Build a Product Landing Page.
 
-This is the fourth certification project of [FreeCodeCamp Legacy Front End Libraries Certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-product-landing-page-project/build-a-product-landing-page/).
+This is the fourth certification project of [freeCodeCamp Legacy Front End Libraries Certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-product-landing-page-project/build-a-product-landing-page/).
 
 This project was built with HTML and CSS.
 
@@ -16,7 +16,7 @@ Live project link: <https://thenomadicenby.github.io/product-landing-page-freeco
 
 ## Objective
 
-- [x] Build an app that is functionally similar to <https://product-landing-page.freecodecamp.rocks>. **Do not copy this demo project.**
+- [x] Build an app that is functionally similar to <https://product-landing-page.freecodecamp.rocks>.
 
 ## User stories
 - [x] Your product landing page should have a `header` element with a corresponding `id="header"`
